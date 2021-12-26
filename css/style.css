@@ -1,0 +1,9 @@
+#tiles div {
+	position:absolute;
+
+	-background:#ccc;
+
+}
+#tiles div.blank {
+	background:none;
+}
